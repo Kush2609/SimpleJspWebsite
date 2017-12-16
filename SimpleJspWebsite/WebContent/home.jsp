@@ -8,7 +8,7 @@ request.setAttribute("pageHeading", "Welcome on my Website!");
 
 
 <div class="center">
-  <p>Welcome today!</p>
+  <p>Welcome!</p>
 
 
 </div>
