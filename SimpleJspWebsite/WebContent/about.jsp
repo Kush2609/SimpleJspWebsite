@@ -15,4 +15,4 @@ request.setAttribute("pageHeading", title);
 
 </div>
 
-<jsp:include page="/WEB-INF/jsp/footer.inc.jsp"></jsp:include>
+<jsp:include page="/WEB-INF/jsp/footer.inc.jsp"></jsp:include> 
